@@ -1,1 +1,3 @@
 venv
+account_api/migrations
+neuralnet/__pycache__
